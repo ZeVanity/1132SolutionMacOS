@@ -1,7 +1,10 @@
 # 1132SolutionMacOS
-Follow these instructions to remove the 1132 error code (Mac only). Solutions for other OS' are accesible there as well. 
-
-https://www.primepnp.com/knowledge/solution-for-error-1132-on-macos
+Follow these instructions to remove the 1132 error code (Mac only). 
+open zoom app
+Go to "Go To" Tab and click on library.
+start typing ~ and go to the file ~/Users/"your name here"/Library/Application Support/zoom.us/data/
+ once opened open the zoomus.data  & zoom.us.enc.db with text edito. clear the text and save the file blank.
+ open zoom as normal 
 
 
 # If you still get 1132 after clearing the text in the files.
